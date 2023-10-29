@@ -2,7 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jinesh+Das!;+A+Coading+Enthusiast😎;" />
 </h1>
-<img align="right" width="450" src="https://github.com/jinesh-das/jinesh-das/assets/81145991/149f9f6b-9313-46c5-993c-010c917de6a6" alt="coding">
+
+<img align="right" width="450" src="https://github.com/jinesh-das/jinesh-das/assets/81145991/980a08d4-30a5-4b34-8875-66fc2bc45d85 " alt="coding">
 
 # 💫 About Me:
 🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring React.<br>🤔 Working As a Student.<br>💬 Ask me about Web Development.<br>📫 How to reach me: https://githun.com/jineshdas<br>😄 Pronouns: He/His<br>⚡ Fun fact: I am funny.
